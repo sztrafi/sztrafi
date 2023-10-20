@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A passionate DevOps / Systems Engineer</h3>
+<h3 align="center">DevOps / Systems Engineer</h3>
 
 📫 How to reach me **f.sztramski@gmail.com**
 
